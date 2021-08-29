@@ -1,7 +1,7 @@
 # HackingEtico
 
 
-Repositorio que contiene en el apartado wiki un resumen de lo estudiado en:
+Repositorio que contiene en el [apartado wiki](https://github.com/JaviFS97/HackingEtico/wiki) un resumen de lo estudiado en:
 - El [curso de udemy](https://www.udemy.com/course/curso-completo-de-hacking-etico-y-ciberseguridad/) impartido por Santiago Hernández.
 - El [libro](https://www.ra-ma.es/libro/ifcd072po-ciberseguridad-hacking-etico_107341/) "Ciberseguridad, Hacking ético" de Juan Andrés Maíllo.
 
